@@ -1,5 +1,3 @@
-# robofriends
-
 # RoboFriends: A React Robot Directory
 
 This project is a simple, interactive robot directory built with React. It utilizes RoboHash for robot avatars and fetches user data from a public API to display information about each robot.  A dynamic search feature allows users to filter the robot list based on name.
